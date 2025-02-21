@@ -1,0 +1,2 @@
+# graceful_shutdown
+安全にPythonのプログラムを終了する
